@@ -1,0 +1,11 @@
+,Blur,Copy Paste,CopyPaste+Blur,CopyPaste+Insertion,CopyPaste+Noise,Insertion,Insertion+Blur,Insertion+Noise,Noise,Normal
+Blur,0,0,1,0,0,1,5,0,3,0
+Copy Paste,0,0,1,0,0,1,5,0,3,0
+CopyPaste+Blur,0,0,1,0,0,1,7,0,1,0
+CopyPaste+Insertion,0,0,1,0,0,2,5,0,2,0
+CopyPaste+Noise,0,0,1,0,0,1,7,0,1,0
+Insertion,0,0,1,0,0,1,6,0,2,0
+Insertion+Blur,0,0,0,0,0,1,6,0,3,0
+Insertion+Noise,0,0,1,0,0,1,6,0,2,0
+Noise,0,0,1,0,0,1,6,0,2,0
+Normal,0,0,1,0,0,1,6,0,2,0

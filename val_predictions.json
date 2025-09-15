@@ -1,0 +1,502 @@
+[
+  {
+    "file": "Blur/Blur(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1471775323152542
+  },
+  {
+    "file": "Blur/Blur(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1427171528339386
+  },
+  {
+    "file": "Blur/Blur(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.16064630448818207
+  },
+  {
+    "file": "Blur/Blur(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13249562680721283
+  },
+  {
+    "file": "Blur/Blur(13).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.13199497759342194
+  },
+  {
+    "file": "Blur/Blur(14).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1305394470691681
+  },
+  {
+    "file": "Blur/Blur(15).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.14103330671787262
+  },
+  {
+    "file": "Blur/Blur(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.15073640644550323
+  },
+  {
+    "file": "Blur/Blur(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.1499282568693161
+  },
+  {
+    "file": "Blur/Blur(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.14029884338378906
+  },
+  {
+    "file": "Copy Paste/CopyPaste(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1481679379940033
+  },
+  {
+    "file": "Copy Paste/CopyPaste(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.142419695854187
+  },
+  {
+    "file": "Copy Paste/CopyPaste(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.15770983695983887
+  },
+  {
+    "file": "Copy Paste/CopyPaste(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13496825098991394
+  },
+  {
+    "file": "Copy Paste/CopyPaste(13).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.1319972574710846
+  },
+  {
+    "file": "Copy Paste/CopyPaste(14).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.13189958035945892
+  },
+  {
+    "file": "Copy Paste/CopyPaste(15).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1424892693758011
+  },
+  {
+    "file": "Copy Paste/CopyPaste(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1472325176000595
+  },
+  {
+    "file": "Copy Paste/CopyPaste(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.15131749212741852
+  },
+  {
+    "file": "Copy Paste/CopyPaste(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.1365882307291031
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14768575131893158
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14227914810180664
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.15651722252368927
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13490775227546692
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(13).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.13027459383010864
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(14).jpg",
+    "pred_class": "CopyPaste+Blur",
+    "confidence": 0.13141129910945892
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(15).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14368484914302826
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14734648168087006
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.15341883897781372
+  },
+  {
+    "file": "CopyPaste+Blur/CPBlur(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.14052630960941315
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14799445867538452
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14118045568466187
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1577293425798416
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13401053845882416
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(13).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.13118988275527954
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(14).jpg",
+    "pred_class": "CopyPaste+Blur",
+    "confidence": 0.13264991343021393
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(15).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14415843784809113
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14686034619808197
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.14778952300548553
+  },
+  {
+    "file": "CopyPaste+Insertion/CPInsertion(18).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13621927797794342
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14760400354862213
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14211085438728333
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.15882888436317444
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13546845316886902
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(13).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13029594719409943
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(14).jpg",
+    "pred_class": "CopyPaste+Blur",
+    "confidence": 0.13142986595630646
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(15).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14385558664798737
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14862842857837677
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.1534769982099533
+  },
+  {
+    "file": "CopyPaste+Noise/CPNoise(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.13935120403766632
+  },
+  {
+    "file": "Insertion/Insertion(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14596736431121826
+  },
+  {
+    "file": "Insertion/Insertion(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.13991662859916687
+  },
+  {
+    "file": "Insertion/Insertion(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.16017626225948334
+  },
+  {
+    "file": "Insertion/Insertion(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13390494883060455
+  },
+  {
+    "file": "Insertion/Insertion(13).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.12994548678398132
+  },
+  {
+    "file": "Insertion/Insertion(14).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.13329802453517914
+  },
+  {
+    "file": "Insertion/Insertion(15).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14302285015583038
+  },
+  {
+    "file": "Insertion/Insertion(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1471322625875473
+  },
+  {
+    "file": "Insertion/Insertion(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.15005823969841003
+  },
+  {
+    "file": "Insertion/Insertion(18).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.1356399804353714
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1470503807067871
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14105109870433807
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1602538675069809
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13422633707523346
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(13).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.130402073264122
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(14).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.12998314201831818
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(15).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.14200778305530548
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14886130392551422
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.15499937534332275
+  },
+  {
+    "file": "Insertion+Blur/InsBlur(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.13429071009159088
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14806920289993286
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14226274192333221
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.16079029440879822
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13562209904193878
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(13).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13025729358196259
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(14).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.13058146834373474
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(15).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1428489238023758
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1491144746541977
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.15274059772491455
+  },
+  {
+    "file": "Insertion+Noise/InsNoise(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.13461093604564667
+  },
+  {
+    "file": "Noise/Noise(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1467195451259613
+  },
+  {
+    "file": "Noise/Noise(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14185646176338196
+  },
+  {
+    "file": "Noise/Noise(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.15952737629413605
+  },
+  {
+    "file": "Noise/Noise(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.1336386352777481
+  },
+  {
+    "file": "Noise/Noise(13).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.1307958960533142
+  },
+  {
+    "file": "Noise/Noise(14).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1301308274269104
+  },
+  {
+    "file": "Noise/Noise(15).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1430521011352539
+  },
+  {
+    "file": "Noise/Noise(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.15043403208255768
+  },
+  {
+    "file": "Noise/Noise(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.1532582938671112
+  },
+  {
+    "file": "Noise/Noise(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.13788621127605438
+  },
+  {
+    "file": "Normal/Normal(1).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1461365669965744
+  },
+  {
+    "file": "Normal/Normal(10).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14224161207675934
+  },
+  {
+    "file": "Normal/Normal(11).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1598491668701172
+  },
+  {
+    "file": "Normal/Normal(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13477365672588348
+  },
+  {
+    "file": "Normal/Normal(13).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.13194286823272705
+  },
+  {
+    "file": "Normal/Normal(14).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.1307908445596695
+  },
+  {
+    "file": "Normal/Normal(15).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.14165200293064117
+  },
+  {
+    "file": "Normal/Normal(16).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.14953796565532684
+  },
+  {
+    "file": "Normal/Normal(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.15326963365077972
+  },
+  {
+    "file": "Normal/Normal(18).jpg",
+    "pred_class": "Insertion",
+    "confidence": 0.139479398727417
+  }
+]

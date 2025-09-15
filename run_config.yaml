@@ -1,0 +1,64 @@
+run:
+  timestamp: '2025-09-15T19:55:21.847092'
+  seed: 42
+  device: /CPU:0
+data:
+  data_root: C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023
+  class_dirs:
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\Normal
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\Insertion+Blur
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\Insertion+Noise
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\Noise
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\CopyPaste+Insertion
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\CopyPaste+Noise
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\Insertion
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\Copy Paste
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\CopyPaste+Blur
+  - C:\Users\sagni\Downloads\Docu Verify\Forged Handwritten Document Database\Forged
+    Handwritten Document Database\Handwritten Forged Document Dataset 2023\Blur
+  classes:
+  - Blur
+  - Copy Paste
+  - CopyPaste+Blur
+  - CopyPaste+Insertion
+  - CopyPaste+Noise
+  - Insertion
+  - Insertion+Blur
+  - Insertion+Noise
+  - Noise
+  - Normal
+  val_split: 0.2
+  image_size:
+  - 256
+  - 256
+  batch_size: 16
+  augment: true
+model:
+  architecture: EfficientNetB0
+  transfer_learning: true
+  frozen_base: true
+  optimizer: Adam
+  learning_rate: 0.001
+  epochs: 15
+  num_classes: 10
+artifacts:
+  model_h5: C:\Users\sagni\Downloads\Docu Verify\model.h5
+  class_indices_pkl: C:\Users\sagni\Downloads\Docu Verify\class_indices.pkl
+  metrics_json: C:\Users\sagni\Downloads\Docu Verify\metrics.json
+  val_predictions_json: C:\Users\sagni\Downloads\Docu Verify\val_predictions.json
+  accuracy_loss_png: C:\Users\sagni\Downloads\Docu Verify\accuracy_loss.png
+  accuracy_only_png: C:\Users\sagni\Downloads\Docu Verify\accuracy_loss_acc.png
+  loss_only_png: C:\Users\sagni\Downloads\Docu Verify\accuracy_loss_loss.png
+  confusion_matrix_png: C:\Users\sagni\Downloads\Docu Verify\confusion_matrix.png
+  classification_report_csv: C:\Users\sagni\Downloads\Docu Verify\classification_report.csv
+  confusion_matrix_csv: C:\Users\sagni\Downloads\Docu Verify\confusion_matrix.csv
