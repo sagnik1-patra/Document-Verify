@@ -1,0 +1,25 @@
+{
+  "demo_dir": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo",
+  "num_images": 33,
+  "top_k": 3,
+  "annotated_dir": "C:\\Users\\sagni\\Downloads\\Docu Verify\\annotated_demo",
+  "mistakes_dir": "C:\\Users\\sagni\\Downloads\\Docu Verify\\mistakes_demo",
+  "per_class_counts": {
+    "Insertion+Blur": 32,
+    "Noise": 1
+  },
+  "gt_images": 0,
+  "overall_top1_accuracy": null,
+  "per_class_accuracy": {
+    "Blur": null,
+    "Copy Paste": null,
+    "CopyPaste+Blur": null,
+    "CopyPaste+Insertion": null,
+    "CopyPaste+Noise": null,
+    "Insertion": null,
+    "Insertion+Blur": null,
+    "Insertion+Noise": null,
+    "Noise": null,
+    "Normal": null
+  }
+}
