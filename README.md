@@ -10,7 +10,7 @@ yaml
 Copy code
 
 ---
-
+![Confusion Matrix Heatmap](confusion_matrix.png)
 ## 📂 Dataset Layout (used in training)
 
 Using the **Forged Handwritten Document Database (2023)** with class folders:
@@ -192,7 +192,7 @@ Enable short fine-tuning of the backbone
 Balance classes / add more samples
 
 Use higher resolution (320×320) if VRAM allows
-![Confusion Matrix Heatmap](confusion_matrix.png)
+
 🧱 Roadmap (Optional Enhancements)
 Explainability: Grad-CAM overlays for highlighted suspicious regions.
 
