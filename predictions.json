@@ -1,0 +1,860 @@
+[
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(10).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.183428,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.183428
+      },
+      {
+        "class": "Noise",
+        "p": 0.134407
+      },
+      {
+        "class": "Insertion",
+        "p": 0.116207
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.183428,
+    "top2_class": "Noise",
+    "top2_p": 0.134407,
+    "top3_class": "Insertion",
+    "top3_p": 0.116207
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(11).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.182574,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.182574
+      },
+      {
+        "class": "Noise",
+        "p": 0.145782
+      },
+      {
+        "class": "Insertion",
+        "p": 0.119832
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.182574,
+    "top2_class": "Noise",
+    "top2_p": 0.145782,
+    "top3_class": "Insertion",
+    "top3_p": 0.119832
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(12).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.186074,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.186074
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.120603
+      },
+      {
+        "class": "Noise",
+        "p": 0.116087
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.186074,
+    "top2_class": "CopyPaste+Blur",
+    "top2_p": 0.120603,
+    "top3_class": "Noise",
+    "top3_p": 0.116087
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(13).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.174112,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.174112
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.116827
+      },
+      {
+        "class": "Blur",
+        "p": 0.111635
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.174112,
+    "top2_class": "CopyPaste+Blur",
+    "top2_p": 0.116827,
+    "top3_class": "Blur",
+    "top3_p": 0.111635
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(16).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.180165,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.180165
+      },
+      {
+        "class": "Noise",
+        "p": 0.121521
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.11998
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.180165,
+    "top2_class": "Noise",
+    "top2_p": 0.121521,
+    "top3_class": "CopyPaste+Blur",
+    "top3_p": 0.11998
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.150781,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.150781
+      },
+      {
+        "class": "Noise",
+        "p": 0.138437
+      },
+      {
+        "class": "Insertion",
+        "p": 0.117859
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.150781,
+    "top2_class": "Noise",
+    "top2_p": 0.138437,
+    "top3_class": "Insertion",
+    "top3_p": 0.117859
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(19).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.160671,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.160671
+      },
+      {
+        "class": "Insertion",
+        "p": 0.131024
+      },
+      {
+        "class": "Noise",
+        "p": 0.10295
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.160671,
+    "top2_class": "Insertion",
+    "top2_p": 0.131024,
+    "top3_class": "Noise",
+    "top3_p": 0.10295
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(4).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.14926,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.14926
+      },
+      {
+        "class": "Insertion",
+        "p": 0.126141
+      },
+      {
+        "class": "Noise",
+        "p": 0.11627
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.14926,
+    "top2_class": "Insertion",
+    "top2_p": 0.126141,
+    "top3_class": "Noise",
+    "top3_p": 0.11627
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(5).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.146099,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.146099
+      },
+      {
+        "class": "Noise",
+        "p": 0.143892
+      },
+      {
+        "class": "Insertion",
+        "p": 0.12103
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.146099,
+    "top2_class": "Noise",
+    "top2_p": 0.143892,
+    "top3_class": "Insertion",
+    "top3_p": 0.12103
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\InsNoise(8).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.17293,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.17293
+      },
+      {
+        "class": "Noise",
+        "p": 0.117804
+      },
+      {
+        "class": "Blur",
+        "p": 0.11607
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.17293,
+    "top2_class": "Noise",
+    "top2_p": 0.117804,
+    "top3_class": "Blur",
+    "top3_p": 0.11607
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(10).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.184032,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.184032
+      },
+      {
+        "class": "Noise",
+        "p": 0.134812
+      },
+      {
+        "class": "Insertion",
+        "p": 0.116001
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.184032,
+    "top2_class": "Noise",
+    "top2_p": 0.134812,
+    "top3_class": "Insertion",
+    "top3_p": 0.116001
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(11).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.183875,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.183875
+      },
+      {
+        "class": "Noise",
+        "p": 0.145374
+      },
+      {
+        "class": "Insertion",
+        "p": 0.118962
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.183875,
+    "top2_class": "Noise",
+    "top2_p": 0.145374,
+    "top3_class": "Insertion",
+    "top3_p": 0.118962
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(13).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.174089,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.174089
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.117338
+      },
+      {
+        "class": "Blur",
+        "p": 0.111652
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.174089,
+    "top2_class": "CopyPaste+Blur",
+    "top2_p": 0.117338,
+    "top3_class": "Blur",
+    "top3_p": 0.111652
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(14).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.18315,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.18315
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.128961
+      },
+      {
+        "class": "Noise",
+        "p": 0.118574
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.18315,
+    "top2_class": "CopyPaste+Blur",
+    "top2_p": 0.128961,
+    "top3_class": "Noise",
+    "top3_p": 0.118574
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(16).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.179468,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.179468
+      },
+      {
+        "class": "Noise",
+        "p": 0.121561
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.120098
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.179468,
+    "top2_class": "Noise",
+    "top2_p": 0.121561,
+    "top3_class": "CopyPaste+Blur",
+    "top3_p": 0.120098
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(17).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.151469,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.151469
+      },
+      {
+        "class": "Noise",
+        "p": 0.138054
+      },
+      {
+        "class": "Insertion",
+        "p": 0.116978
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.151469,
+    "top2_class": "Noise",
+    "top2_p": 0.138054,
+    "top3_class": "Insertion",
+    "top3_p": 0.116978
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(4).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.148673,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.148673
+      },
+      {
+        "class": "Insertion",
+        "p": 0.125511
+      },
+      {
+        "class": "Noise",
+        "p": 0.116155
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.148673,
+    "top2_class": "Insertion",
+    "top2_p": 0.125511,
+    "top3_class": "Noise",
+    "top3_p": 0.116155
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(5).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.146001,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.146001
+      },
+      {
+        "class": "Noise",
+        "p": 0.145177
+      },
+      {
+        "class": "Insertion",
+        "p": 0.119519
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.146001,
+    "top2_class": "Noise",
+    "top2_p": 0.145177,
+    "top3_class": "Insertion",
+    "top3_p": 0.119519
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(7).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.204759,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.204759
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.11813
+      },
+      {
+        "class": "Noise",
+        "p": 0.115702
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.204759,
+    "top2_class": "CopyPaste+Blur",
+    "top2_p": 0.11813,
+    "top3_class": "Noise",
+    "top3_p": 0.115702
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Noise(8).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.172342,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.172342
+      },
+      {
+        "class": "Noise",
+        "p": 0.118018
+      },
+      {
+        "class": "Blur",
+        "p": 0.116294
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.172342,
+    "top2_class": "Noise",
+    "top2_p": 0.118018,
+    "top3_class": "Blur",
+    "top3_p": 0.116294
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(30).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.175068,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.175068
+      },
+      {
+        "class": "Noise",
+        "p": 0.12939
+      },
+      {
+        "class": "Insertion",
+        "p": 0.119029
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.175068,
+    "top2_class": "Noise",
+    "top2_p": 0.12939,
+    "top3_class": "Insertion",
+    "top3_p": 0.119029
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(31).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.173084,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.173084
+      },
+      {
+        "class": "Insertion",
+        "p": 0.120064
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.11381
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.173084,
+    "top2_class": "Insertion",
+    "top2_p": 0.120064,
+    "top3_class": "CopyPaste+Blur",
+    "top3_p": 0.11381
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(32).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.180586,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.180586
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.121614
+      },
+      {
+        "class": "Noise",
+        "p": 0.112556
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.180586,
+    "top2_class": "CopyPaste+Blur",
+    "top2_p": 0.121614,
+    "top3_class": "Noise",
+    "top3_p": 0.112556
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(36).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.18895,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.18895
+      },
+      {
+        "class": "Noise",
+        "p": 0.12009
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.113369
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.18895,
+    "top2_class": "Noise",
+    "top2_p": 0.12009,
+    "top3_class": "CopyPaste+Blur",
+    "top3_p": 0.113369
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(37).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.163223,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.163223
+      },
+      {
+        "class": "Noise",
+        "p": 0.125258
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.1194
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.163223,
+    "top2_class": "Noise",
+    "top2_p": 0.125258,
+    "top3_class": "CopyPaste+Blur",
+    "top3_p": 0.1194
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(38).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.195298,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.195298
+      },
+      {
+        "class": "Insertion",
+        "p": 0.128244
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.113433
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.195298,
+    "top2_class": "Insertion",
+    "top2_p": 0.128244,
+    "top3_class": "CopyPaste+Blur",
+    "top3_p": 0.113433
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(39).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.166574,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.166574
+      },
+      {
+        "class": "Noise",
+        "p": 0.131929
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.103019
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.166574,
+    "top2_class": "Noise",
+    "top2_p": 0.131929,
+    "top3_class": "CopyPaste+Blur",
+    "top3_p": 0.103019
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(40).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.185222,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.185222
+      },
+      {
+        "class": "Noise",
+        "p": 0.124359
+      },
+      {
+        "class": "Insertion",
+        "p": 0.117543
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.185222,
+    "top2_class": "Noise",
+    "top2_p": 0.124359,
+    "top3_class": "Insertion",
+    "top3_p": 0.117543
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(41).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.178161,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.178161
+      },
+      {
+        "class": "CopyPaste+Blur",
+        "p": 0.132731
+      },
+      {
+        "class": "Noise",
+        "p": 0.1264
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.178161,
+    "top2_class": "CopyPaste+Blur",
+    "top2_p": 0.132731,
+    "top3_class": "Noise",
+    "top3_p": 0.1264
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(45).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.169829,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.169829
+      },
+      {
+        "class": "Noise",
+        "p": 0.126733
+      },
+      {
+        "class": "Insertion",
+        "p": 0.118883
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.169829,
+    "top2_class": "Noise",
+    "top2_p": 0.126733,
+    "top3_class": "Insertion",
+    "top3_p": 0.118883
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(46).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.193629,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.193629
+      },
+      {
+        "class": "Noise",
+        "p": 0.121009
+      },
+      {
+        "class": "Copy Paste",
+        "p": 0.111843
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.193629,
+    "top2_class": "Noise",
+    "top2_p": 0.121009,
+    "top3_class": "Copy Paste",
+    "top3_p": 0.111843
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(47).jpg",
+    "pred_class": "Noise",
+    "confidence": 0.140163,
+    "topk": [
+      {
+        "class": "Noise",
+        "p": 0.140163
+      },
+      {
+        "class": "Insertion+Blur",
+        "p": 0.137023
+      },
+      {
+        "class": "Insertion",
+        "p": 0.114081
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Noise",
+    "top1_p": 0.140163,
+    "top2_class": "Insertion+Blur",
+    "top2_p": 0.137023,
+    "top3_class": "Insertion",
+    "top3_p": 0.114081
+  },
+  {
+    "file": "C:\\Users\\sagni\\Downloads\\Docu Verify\\Forged Handwritten Document Database\\Forged Handwritten Document Database\\Handwritten Forged Document Dataset 2023\\Demo\\Normal(48).jpg",
+    "pred_class": "Insertion+Blur",
+    "confidence": 0.143109,
+    "topk": [
+      {
+        "class": "Insertion+Blur",
+        "p": 0.143109
+      },
+      {
+        "class": "Noise",
+        "p": 0.142403
+      },
+      {
+        "class": "Insertion",
+        "p": 0.115436
+      }
+    ],
+    "inferred_ground_truth": "",
+    "top1_class": "Insertion+Blur",
+    "top1_p": 0.143109,
+    "top2_class": "Noise",
+    "top2_p": 0.142403,
+    "top3_class": "Insertion",
+    "top3_p": 0.115436
+  }
+]
